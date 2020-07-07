@@ -1,6 +1,7 @@
 # MP3-Editor
 
-simple editor implement for wave edit
+simple mp3 editor 
+used NAudio Library
 
 <br>
 
