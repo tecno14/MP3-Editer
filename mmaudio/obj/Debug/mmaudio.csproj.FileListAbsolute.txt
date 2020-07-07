@@ -1,0 +1,69 @@
+E:\mmaudio\mmaudio\bin\Debug\mmaudio.exe.config
+E:\mmaudio\mmaudio\bin\Debug\mmaudio.exe
+E:\mmaudio\mmaudio\bin\Debug\mmaudio.pdb
+E:\mmaudio\mmaudio\bin\Debug\NAudio.dll
+E:\mmaudio\mmaudio\bin\Debug\NAudio.xml
+E:\mmaudio\mmaudio\obj\Debug\mmaudio.csprojResolveAssemblyReference.cache
+E:\mmaudio\mmaudio\obj\Debug\mmaudio.Form1.resources
+E:\mmaudio\mmaudio\obj\Debug\mmaudio.Properties.Resources.resources
+E:\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.GenerateResource.Cache
+E:\mmaudio\mmaudio\obj\Debug\mmaudio.exe
+E:\mmaudio\mmaudio\obj\Debug\mmaudio.pdb
+C:\Users\omar\Desktop\mmaudio\mmaudio\bin\Debug\mmaudio.exe.config
+C:\Users\omar\Desktop\mmaudio\mmaudio\bin\Debug\mmaudio.exe
+C:\Users\omar\Desktop\mmaudio\mmaudio\bin\Debug\mmaudio.pdb
+C:\Users\omar\Desktop\mmaudio\mmaudio\bin\Debug\NAudio.xml
+C:\Users\omar\Desktop\mmaudio\mmaudio\obj\Debug\mmaudio.csprojResolveAssemblyReference.cache
+C:\Users\omar\Desktop\mmaudio\mmaudio\obj\Debug\mmaudio.Form1.resources
+C:\Users\omar\Desktop\mmaudio\mmaudio\obj\Debug\mmaudio.Properties.Resources.resources
+C:\Users\omar\Desktop\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.GenerateResource.Cache
+C:\Users\omar\Desktop\mmaudio\mmaudio\obj\Debug\mmaudio.exe
+C:\Users\omar\Desktop\mmaudio\mmaudio\obj\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\bin\Debug\mmaudio.exe.config
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\bin\Debug\mmaudio.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\bin\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\bin\Debug\NAudio.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csprojAssemblyReference.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.Form1.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.Properties.Resources.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.GenerateResource.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.CoreCompileInputs.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.CopyComplete
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2018\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.Properties.Resources.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.GenerateResource.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.CoreCompileInputs.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\bin\Debug\SoundTouch.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\bin\Debug\SoundTouch_x64.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\bin\Debug\mmaudio.exe.config
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\bin\Debug\mmaudio.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\bin\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\bin\Debug\NAudio.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csproj.CopyComplete
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\mmaudio\mmaudio\obj\Debug\mmaudio.csprojAssemblyReference.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.Frms.Frm.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.TrackUC.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.Frms.Mainfrm.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.Properties.Resources.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.csproj.GenerateResource.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.csproj.CoreCompileInputs.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\SoundTouch.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\SoundTouch_x64.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\mmaudio.exe.config
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\mmaudio.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\MetroFramework.Design.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\MetroFramework.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\MetroFramework.Fonts.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.csproj.CopyComplete
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\libmp3lame.32.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\libmp3lame.64.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\NAudio.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\NAudio.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\obj\Debug\mmaudio.csprojAssemblyReference.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\صوت\MyMMSound2\mmaudio\bin\Debug\lame_enc.dll
